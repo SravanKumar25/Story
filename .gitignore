@@ -1,0 +1,3 @@
+# ignoring secrets.txt file
+# this is a comment since it starts with "#" sign
+secrets.txt
