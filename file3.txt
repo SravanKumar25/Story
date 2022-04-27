@@ -1,0 +1,6 @@
+This is file3.txt
+This is for practicing git
+git status - for looking the files in the staging area
+git add - for adding files to the staging area
+git add . - to add all files
+git commit -m "//Message//" - to commit the changes
